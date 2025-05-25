@@ -12,7 +12,7 @@ DATASET USED : COVID-19 IN INDIA
 - Validate that Active Cases + Recovered + Deaths = Total Confirmed cases.
 
 *Exploratory Data Analysis (EDA):*
-EDA will help in uncovering trends and identifying key insights such as:
+EDA will help me in uncovering trends and identifying key insights such as:
 - Mortality rate per state (Deaths / Total Confirmed cases).
 - Recovery rate analysis.
 - Visual comparison of states on Active, Recovered, and Deaths metrics.

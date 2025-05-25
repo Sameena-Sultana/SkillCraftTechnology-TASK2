@@ -19,7 +19,6 @@ EDA will help in uncovering trends and identifying key insights such as:
 
  🎯OBJECTIVE:
 - Understand how COVID-19 affected different Indian states.
-- Inform policy suggestions by identifying high-risk regions.
 - Create visuals that support public awareness and government strategy.
 - Build foundational skills in data preprocessing and statistical insight extraction.
 

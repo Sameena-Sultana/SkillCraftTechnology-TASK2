@@ -1,4 +1,4 @@
-# SkillCraftTechnology-TASK2
+# SkillCraftTechnology_Task2
 TASK 2 : Data Cleaning and Exploratory Data Analysis
 
 TASK OVERVIEW : To perform data cleaning and exploratory data analysis on a COVID-19 dataset focused on Indian states. The aim is to transform raw, potentially messy data into meaningful insights by identifying patterns, summarizing trends, and visualizing key statistics.
